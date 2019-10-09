@@ -1,8 +1,4 @@
-/* ------------------------------------------------------------
-This homework is completed by Zisong Guo and Melanie Zhao without asking and consulting others except TA.
-    Collaboration statement:
-    http://www.graphviz.org
------------------------------------------------------------- */
+
 import java.util.*;
 
 public class Graph {
