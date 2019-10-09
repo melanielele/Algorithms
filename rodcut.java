@@ -1,8 +1,6 @@
 package hw09;
 import java.util.*;
-/* ------------------------------------------------------------
-This homework is completed by Zisong Guo and Melanie Zhao without asking and consulting others except TA.
-   */
+
 public class hw09 {
 	
 	private static final int NEITHER     = 0;
