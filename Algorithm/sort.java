@@ -1,12 +1,7 @@
 import java.security.SecureRandom;
 import java.util.Stack;
 
-/* ------------------------------------------------------------
-This homework is completed by Zisong Guo and Melanie Zhao without asking and consulting others except TA.
-    Collaboration statement:
-    https://www.geeksforgeeks.org/iterative-quick-sort/
-    https://algs4.cs.princeton.edu/22mergesort/
------------------------------------------------------------- */
+
 public class hw03 {
 	
 	public static void main(String[] args) {
