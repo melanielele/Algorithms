@@ -1,7 +1,4 @@
-/* ------------------------------------------------------------
-This homework is completed by Zisong Guo and Melanie Zhao without asking and consulting others except TA.
-    Collaboration statement:
-  */
+
 class TreeNode {
     String key; // key
     String value; // value
